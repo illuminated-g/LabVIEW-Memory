@@ -27,6 +27,7 @@
 			<Item Name="Memory Manager Tests.lvlib" Type="Library" URL="../Tests/Memory Manager/Memory Manager Tests.lvlib"/>
 			<Item Name="Static Errors Tests.lvlib" Type="Library" URL="../Tests/Static Errors/Static Errors Tests.lvlib"/>
 		</Item>
+		<Item Name="HandleSize Test.vi" Type="VI" URL="../Tests/Memory Manager/Pointer Tests/Malleable Tests/Malleable Tests/HandleSize Test.vi"/>
 		<Item Name="Memory Manager.lvlib" Type="Library" URL="../Source/Memory Manager.lvlib"/>
 		<Item Name="Static Errors.lvlib" Type="Library" URL="../Source/Static Errors.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
